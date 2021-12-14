@@ -1,0 +1,27 @@
+{
+  "name": "sierraapitesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenirwin/sierraApiTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenirwin/sierraApiTesting/issues"
+  },
+  "homepage": "https://github.com/kenirwin/sierraApiTesting#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jest": "^27.4.5",
+    "js-base64": "^3.7.2"
+  }
+}
